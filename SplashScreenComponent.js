@@ -12,7 +12,7 @@ export default function SplashScreenComponent({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Image source={require('./assets/splash.jpg')} style={styles.image} />
+      <Image source={require('./assets/splash.jpeg')} style={styles.image} />
     </View>
   );
 }
